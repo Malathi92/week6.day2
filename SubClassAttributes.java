@@ -57,7 +57,7 @@ public class SubClassAttributes extends BaseClassAttributes {
 		System.out.println("Edit lead");
 	}
 	//		3.Duplicate Lead
-//	set enabled as false for duplicateLead
+
 	@Test(priority=1)
 	public void duplicateLead() throws InterruptedException
 	{
